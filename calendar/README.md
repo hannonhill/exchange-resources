@@ -1,17 +1,16 @@
 # Calendar
-v0.8.x
-
 Features include:
 
-- Themable interactive calendar using the [Full Calendar jQuery plugin](http://arshaw.com/fullcalendar/).
+- Themable interactive calendar using the [Full Calendar jQuery plugin](https://fullcalendar.io/).
+- Calendar Grid for month view, list view for week and day view. Filterable by category(ies).
 - List view for events within selected category(ies).
-- List view for events defined by terms.
 - Folders for yearly and monthly organization of events.
 - Landing Page for events within a given year or month.
 - Repeatable events using daily, weekly, monthly and yearly options.
-- Multi-channel output for a variety of pages (XHTML, PDF, RSS, iCal, XML).
+- Multi-channel output for a variety of pages (XHTML, RSS, iCal, XML).
 - Display events from external resources (Google Calendar Feed, XML, JSON, Cascade XML and Feed Blocks)
 
+# v0.8.x
 CSS:
 - Updated fullcalendar.css and fullcalendar.print.css from v3.4.0 to v3.9.0.
 - Removed bootstrap-responsive.css

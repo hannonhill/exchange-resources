@@ -7,3 +7,5 @@ Contents:
 * Facebook, Twitter, Instragram, Flickr, YouTube, Custom RSS
 
 Note: Instagram is currently not functioning due to recent changes to the Facebook API. SocialMashup.js has the ability to disable individual API's.
+
+Current Site was exported using Cascade CMS 8.11.1

@@ -3,7 +3,7 @@ Customaizable sites that can be imported into your instance of Cascade CMS.
 
 * [Bootstrap](https://github.com/hannonhill/exchange-modules/tree/master/bootstrap) - Coming soon! Example site built out using Bootstrap v4
 
-* [Calendar](https://github.com/hannonhill/exchange-modules/tree/master/calendar) - [Themable](docs/theming.md) interactive calendar using the [Full Calendar jQuery plugin](http://arshaw.com/fullcalendar/). v0.8.x
+* [Calendar](https://github.com/hannonhill/exchange-modules/tree/master/calendar) - Themable interactive calendar using the [Full Calendar jQuery plugin](https://fullcalendar.io/). v0.8.x
 
 * [Course Catalog](https://github.com/hannonhill/exchange-modules/tree/master/course-catalog) - Searchable catalog of programs and courses. v0.8.x
 

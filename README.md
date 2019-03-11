@@ -1,5 +1,5 @@
 # Cascade CMS Exchange Modules
-Customaizable sites that can be imported into your instance of Cascade CMS.
+Customizable sites that can be imported into your instance of Cascade CMS. They can be used out of the box, but we recommend adding your header and footer.
 
 * [Bootstrap](https://github.com/hannonhill/exchange-modules/tree/master/bootstrap) - Coming soon! Example site built out using Bootstrap v4
 

@@ -1,5 +1,4 @@
-Social Media Mashup
-============================
+# Social Media Mashup
 v0.8.x
 
 Contents:

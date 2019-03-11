@@ -1,5 +1,7 @@
 Vanity URL
 ============================
+v0.8.x
+
 Creating Vanity URL's can be a bit cumbersome. Make it easier by creating them from inside of Cascade CMS and publishing an .htaccess file to your webserver.
 
 Included:

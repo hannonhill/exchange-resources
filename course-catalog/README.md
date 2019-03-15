@@ -1,5 +1,4 @@
-Course Catalog
-============================
+# Course Catalog
 v0.8.x
 
 Contents:

@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-
-
 Version 1.0.1
-
-Contents:
-=======
-# News/Blog
-=======
-# News/Blog
-v1.0
->>>>>>> 59270a2af44e9a01a20753564fcff5522e700945
 
 Contents:
 - Homepage 
@@ -25,6 +14,7 @@ Options:
 
 Current Site was exported using Cascade CMS version 8.11.1.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Updates:
@@ -34,5 +24,3 @@ Updates:
 - Added AddThis widget tool to share your posts
 - Added "View More" link to homepage
 
-=======
->>>>>>> 59270a2af44e9a01a20753564fcff5522e700945

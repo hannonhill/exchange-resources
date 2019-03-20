@@ -13,14 +13,9 @@ Options:
 - Sidebar includes contact, related posts, category list, social media, and custom content options.
 
 Current Site was exported using Cascade CMS version 8.11.1.
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 
 Updates:
-
 - Added breadcrumbs
 - Added readme.txt file with version info and instructions for customizations
 - Added AddThis widget tool to share your posts
 - Added "View More" link to homepage
-

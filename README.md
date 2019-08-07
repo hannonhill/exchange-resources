@@ -16,3 +16,5 @@ Customizable sites that can be imported into your instance of Cascade CMS. They 
 * [Social Media Mashup](https://github.com/hannonhill/exchange-modules/tree/master/social-media-mashup) - Combination of Facebook, Twitter, Flickr, YouTube, or other RSS feeds displayed on one page. Requires setup with Facebook and Twitter APIs. Instagram currently not working. v0.8.x
 
 * [Vanity URL](https://github.com/hannonhill/exchange-modules/tree/master/vanity-url) - Allows making custom Redirects in a user friendly interface that generates an htaccess file. Requires Apache webserver. x0.8.x
+
+Disclaimer: These modules are not supported by Hannon Hill and are delivered out of the box as is. If you need assistance, please contact our [Professional Services team](https://www.hannonhill.com/support/professional-services/index.html).

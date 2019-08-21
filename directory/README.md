@@ -1,4 +1,29 @@
 # Directory
+
+V1.0.0
+
+The Directory frontend has been completely rewritten for optimization and customization purposes. It’s also been tested and updated for accessibility using the WAVE Accessibility Tool and now meets Web Content Accessibility Guidelines (WCAG) 2.0 AA standards.
+
+Changes:
+
+* Made Tags optional
+* Added ability to customize Tags label 
+* Added optional content area on listing page
+* Added ability to set pagination on listing page
+* Added ability to show images on listing page
+* Added layout options for listing page
+* Added ability to change sidebar location
+* Added ability to add multiple content sections on profile page
+* Cleaned up and removed unnecessary CSS/JS/Fonts
+* Updated CSS/JS/Fonts from local files to CDN hosted where possible
+* Updated HTML to meet Web Content Accessibility Guidelines (WCAG) 2.0 AA standards
+* Implemented our Exchange Module Styles system for easier customization
+* Updated Font Awesome 4.6 to Font Awesome Free 5.8.1
+* Replaced Angular with jQuery (it wasn’t needed and most Bootstrap sites already reference jQuery)
+* Reverted Bootstrap 4 to Bootstrap 3 (for IE8-9 support)
+
+Exported using Cascade CMS v8.13.1
+
 v0.8.x
 
 Contents:

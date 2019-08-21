@@ -1,10 +1,22 @@
 # Directory
+Version 1.0.0
 
-V1.0.0
+## Contents
+- Index/Lisitng page
+- Profile Page
 
+
+## Options
+- Tags
+- Filtering
+- Pagination
+- Profile Images
+- Listing Layout
+- Sidebar Location
+
+## Updates
+### v1.0.0
 The Directory frontend has been completely rewritten for optimization and customization purposes. It’s also been tested and updated for accessibility using the WAVE Accessibility Tool and now meets Web Content Accessibility Guidelines (WCAG) 2.0 AA standards.
-
-Changes:
 
 * Made Tags optional
 * Added ability to customize Tags label 
@@ -24,8 +36,7 @@ Changes:
 
 Exported using Cascade CMS v8.13.1
 
-v0.8.x
-
+### v0.8.x
 * Directory Landing Page, Profile Page, JSON file of profile data
 * Complete Search using AngularJS for filtering and sorting by department, name, title or expertise
 * Pagination (amount per page can be adjusted in directory.js)

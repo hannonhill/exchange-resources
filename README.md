@@ -7,7 +7,7 @@ Customizable sites that can be imported into your instance of Cascade CMS. They 
 
 * [Course Catalog](https://github.com/hannonhill/exchange-modules/tree/master/course-catalog) - Searchable catalog of programs and courses. v0.8.x
 
-* [Directory](https://github.com/hannonhill/exchange-modules/tree/master/directory) - Searchable listing of profiles (staff, faculty, etc) with Departments and Tags. v0.8.x
+* [Directory](https://github.com/hannonhill/exchange-modules/tree/master/directory) - Searchable listing of profiles (staff, faculty, etc) with departments. Optional tags, pagination, profile images and listing layouts. V1.0.0
 
 * [Media Gallery](https://github.com/hannonhill/exchange-modules/tree/master/media-gallery) - Coming Soon!
 

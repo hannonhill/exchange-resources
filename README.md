@@ -11,7 +11,7 @@ Customizable sites that can be imported into your instance of Cascade CMS. They 
 
 * [Media Gallery](https://github.com/hannonhill/exchange-modules/tree/master/media-gallery) - Coming Soon!
 
-* [News/Blog](https://github.com/hannonhill/exchange-modules/tree/master/news-blog) - Completely redesigned site that can be used for news or blog content. Includes multiple listing page layouts with a beautiful image centric design.
+* [News/Blog](https://github.com/hannonhill/exchange-modules/tree/master/news-blog) - Completely redesigned site that can be used for news or blog content. Includes multiple listing page layouts with a beautiful image centric design. V1.0.3
 
 * [Social Media Mashup](https://github.com/hannonhill/exchange-modules/tree/master/social-media-mashup) - Combination of Facebook, Twitter, Flickr, YouTube, or other RSS feeds displayed on one page. Requires setup with Facebook and Twitter APIs. Instagram currently not working. v0.8.x
 

@@ -1,5 +1,5 @@
 # Directory
-Version 1.0.0
+Version 1.1.0
 
 ## Contents
 - Index/Lisitng page
@@ -15,6 +15,15 @@ Version 1.0.0
 - Sidebar Location
 
 ## Updates
+### v1.1.0
+You can now sort by first or last name (in ascending order). This fixes an issue where the sort would be inconsistent after clearing the search. 
+
+Changes:
+* Directory Page Data Definition 
+* /_files/js/hh-directory.js
+
+Exported using Cascade CMS v8.13.2
+
 ### v1.0.0
 The Directory frontend has been completely rewritten for optimization and customization purposes. It’s also been tested and updated for accessibility using the WAVE Accessibility Tool and now meets Web Content Accessibility Guidelines (WCAG) 2.0 AA standards.
 

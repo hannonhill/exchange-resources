@@ -21,6 +21,7 @@ You can now sort by first or last name (in ascending order). This fixes an issue
 Changes:
 * Directory Page Data Definition 
 * /_files/js/hh-directory.js
+* /_cms/formats/directory
 
 Exported using Cascade CMS v8.13.2
 

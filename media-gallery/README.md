@@ -11,7 +11,7 @@ Version 1.0
 - Gallery Block
 - Gallery Page
 - Demo Page
-- Image Asset Factory
+- Image Asset Factory (Title used for Alternative Text)
 - Gallery Asset Factory
 
 ## Options

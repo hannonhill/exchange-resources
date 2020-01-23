@@ -1,7 +1,6 @@
 # Media Gallery
-Version 1.0
+Version 1.1.0
 - Display all of your photographs and video content in beautiful galleries!
-- Coming Soon: Support for video hosted on YouTube, Vimeo and more plus local files.
 
 [Additional Details](https://www.hannonhill.com/resources/exchange/resources/media-gallery.html)
 
@@ -11,8 +10,9 @@ Version 1.0
 - Gallery Block
 - Gallery Page
 - Demo Page
-- Image Asset Factory (Title used for Alternative Text)
-- Gallery Asset Factory
+- Image File Asset Factory (Title used for Alternative Text)
+- Video Block Asset Factory
+- Gallery Folder Asset Factory (comes with Demo Page & Gallery Block)
 
 ## Options
 - Layout: Mosaic, Cascading, Justified, Slider
@@ -20,9 +20,18 @@ Version 1.0
 - Randomize order
 - Lightbox popup
 - Title and summary for each gallery
+- Caption/Title for each media item
+- Supported Video Platforms: Local, YouTube, Vimeo, DailyMotion
+- Supported Video Extensions: mp4, webm, ogv, 3gp
 
 ## Updates
-### v1.0
+### v1.1.0
+* Added video support
+* Updated readme
+
+Exported using Cascade CMS v8.14
+
+### v1.0.0
 Initial creation of Media Gallery
 
 * Uses [NanoGallery2](https://nanogallery2.nanostudio.org/) for displaying galleries

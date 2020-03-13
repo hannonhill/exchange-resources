@@ -9,7 +9,7 @@ Customizable sites that can be imported into your instance of Cascade CMS. They 
 
 * [Directory](https://github.com/hannonhill/exchange-modules/tree/master/directory) - Searchable listing of profiles (staff, faculty, etc) with departments. Optional tags, pagination, profile images and listing layouts. V1.1.0
 
-* [Media Gallery](https://github.com/hannonhill/exchange-modules/tree/master/media-gallery) - Coming Soon!
+* [Media Gallery](https://github.com/hannonhill/exchange-modules/tree/master/media-gallery) - Display all of your photographs and video content in beautiful galleries! v1.1.0
 
 * [News/Blog](https://github.com/hannonhill/exchange-modules/tree/master/news-blog) - Completely redesigned site that can be used for news or blog content. Includes multiple listing page layouts with a beautiful image centric design. V1.0.3
 

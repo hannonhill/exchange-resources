@@ -20,6 +20,7 @@ Alerts Archive
 * Searchable
 * Paginated
 * RSS/XML & JSON outputs
+
 Site Wide Notifications 
 * Easy to embed on all sites
 * Show on Pages/Folders
@@ -31,6 +32,7 @@ Homepage
 * Banner (image/video/text)
 * Emergency Specific Alerts
 * Shared Content from Content Pages
+
 Content Pages
 * Accordions (great for FAQs)
 * Cards (multiple customizable layouts with options for text/images/videos)

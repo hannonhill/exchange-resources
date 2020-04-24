@@ -8,12 +8,15 @@ Your one stop shop for site wide alerts and emergency information.
 **Homepage**
 
 Option to show latest alert
+
 Option to show multiple emergency banners
+
 Option to show recent alerts
 
 **Alerts**
 
 Single Page Alerts
+
 Alerts Archive
 * Yearly
 * Categorised 

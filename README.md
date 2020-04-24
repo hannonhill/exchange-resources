@@ -1,17 +1,17 @@
 # Cascade CMS Exchange Resources
 Customizable sites that can be imported into your instance of Cascade CMS. They can be used out of the box, but we recommend adding your header and footer, with your site's CSS/JS as needed. Simply download the site and import it into your instance!
 
-* [Bootstrap](https://github.com/hannonhill/exchange-modules/tree/master/bootstrap) - Coming soon! Example site built out using Bootstrap v4
+* [Alerts Center](https://github.com/hannonhill/exchange-modules/tree/master/alerts-center) - Your one stop shop for site wide alerts and emergency information. v1.0.0
 
 * [Calendar](https://github.com/hannonhill/exchange-modules/tree/master/calendar) - Themable interactive calendar using the [Full Calendar jQuery plugin](https://fullcalendar.io/). v0.8.x
 
 * [Course Catalog](https://github.com/hannonhill/exchange-modules/tree/master/course-catalog) - Searchable catalog of programs and courses. v0.8.x
 
-* [Directory](https://github.com/hannonhill/exchange-modules/tree/master/directory) - Searchable listing of profiles (staff, faculty, etc) with departments. Optional tags, pagination, profile images and listing layouts. V1.1.0
+* [Directory](https://github.com/hannonhill/exchange-modules/tree/master/directory) - Searchable listing of profiles (staff, faculty, etc) with departments. Optional tags, pagination, profile images and listing layouts. v1.1.0
 
 * [Media Gallery](https://github.com/hannonhill/exchange-modules/tree/master/media-gallery) - Display all of your photographs and video content in beautiful galleries! v1.1.0
 
-* [News/Blog](https://github.com/hannonhill/exchange-modules/tree/master/news-blog) - Completely redesigned site that can be used for news or blog content. Includes multiple listing page layouts with a beautiful image centric design. V1.0.3
+* [News/Blog](https://github.com/hannonhill/exchange-modules/tree/master/news-blog) - Completely redesigned site that can be used for news or blog content. Includes multiple listing page layouts with a beautiful image centric design. v1.0.3
 
 * [Social Media Mashup](https://github.com/hannonhill/exchange-modules/tree/master/social-media-mashup) - Combination of Facebook, Twitter, Flickr, YouTube, or other RSS feeds displayed on one page. Requires setup with Facebook and Twitter APIs. Instagram currently not working. v0.8.x
 

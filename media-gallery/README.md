@@ -1,5 +1,5 @@
 # Media Gallery
-Version 1.1.0
+Version 1.1.1
 - Display all of your photographs and video content in beautiful galleries!
 
 [Additional Details](https://www.hannonhill.com/resources/exchange/resources/media-gallery.html)
@@ -25,6 +25,12 @@ Version 1.1.0
 - Supported Video Extensions: mp4, webm, ogv, 3gp
 
 ## Updates
+### v1.1.1
+* Replaced all scenery images
+* Added credits for images and videos
+
+Exported using Cascade CMS v8.22
+
 ### v1.1.0
 * Added video support
 * Updated readme

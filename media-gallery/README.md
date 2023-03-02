@@ -2,7 +2,7 @@
 Version 1.1.1
 - Display all of your photographs and video content in beautiful galleries!
 
-[Additional Details](https://www.hannonhill.com/resources/exchange/resources/media-gallery.html)
+[Additional Details](https://www.hannonhill.com/resources/exchange/starter-sites/media-gallery.html)
 
 [Live Demo](https://www.hannonhill.com/resources/exchange/media-gallery/)
 

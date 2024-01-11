@@ -3,6 +3,8 @@ Customizable sites that can be imported into your instance of Cascade CMS. They 
 
 * [Alerts Center](https://github.com/hannonhill/exchange-modules/tree/master/alerts-center) - Your one stop shop for site wide alerts and emergency information. v1.0.0
 
+* [Bricks](https://github.com/hannonhill/exchange-modules/tree/master/bricks) - Re-usable snippets of content. v1.0.0
+
 * [Calendar](https://github.com/hannonhill/exchange-modules/tree/master/calendar) - Themable interactive calendar using the [Full Calendar jQuery plugin](https://fullcalendar.io/). v0.8.x
 
 * [Course Catalog](https://github.com/hannonhill/exchange-modules/tree/master/course-catalog) - Searchable catalog of programs and courses. v0.8.x
